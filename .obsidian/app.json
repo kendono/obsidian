@@ -1,3 +1,8 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

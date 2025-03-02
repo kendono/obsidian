@@ -3,6 +3,17 @@ table {
   --table-cell-vertical-alignment: middle;
 }
 
+div.cm-embed-block.cm-table-widget.markdown-rendered
+{
+  margin-top: 0rem !important;
+}
+
 tr {
   height: unset !important;
+}
+
+table tr th,
+table tr td,
+table .cm-line {
+  white-space: nowrap !important;
 }

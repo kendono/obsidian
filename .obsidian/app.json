@@ -4,5 +4,6 @@
   "foldHeading": false,
   "foldIndent": false,
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }

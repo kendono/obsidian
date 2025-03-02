@@ -2,3 +2,37 @@
 .embed-title {
   display: none;
 }
+
+
+table {
+    margin-block-start: var(--p-spacing) !important;
+    margin-block-end: var(--p-spacing);
+    word-break: normal;
+}
+
+.markdown-source-view.mod-cm6 .markdown-embed th,
+.markdown-source-view.mod-cm6 .markdown-embed td {
+/*
+  height: inherit;
+  min-width: var(--table-column-min-width);
+  cursor: text;
+  overflow: visible;
+  padding: 0;
+  position: relative;
+*/
+  padding: var(--size-2-2) var(--size-4-2);
+  border: var(--table-border-width) solid var(--table-border-color);
+  max-width: var(--table-column-max-width);
+  min-width: var(--table-column-min-width);
+  vertical-align: var(--table-cell-vertical-alignment);
+}
+
+.cm-html-embed td, .markdown-rendered td, .cm-html-embed th, .markdown-rendered th {
+/*
+    padding: var(--size-2-2) var(--size-4-2);
+    border: var(--table-border-width) solid var(--table-border-color);
+    max-width: var(--table-column-max-width);
+    min-width: var(--table-column-min-width);
+    vertical-align: var(--table-cell-vertical-alignment);
+*/
+}

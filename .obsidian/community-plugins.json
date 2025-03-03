@@ -6,5 +6,6 @@
   "plugin-reloader",
   "file-cleaner-redux",
   "obsidian-hider",
-  "terminal"
+  "terminal",
+  "custom-font-loader"
 ]

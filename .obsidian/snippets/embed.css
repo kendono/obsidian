@@ -3,7 +3,6 @@
   display: none;
 }
 
-
 table {
     margin-block-start: var(--p-spacing) !important;
     margin-block-end: var(--p-spacing);

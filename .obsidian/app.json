@@ -29,5 +29,7 @@
     "editor:configure-toolbar"
   ],
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "_assets/attachments"
+  "attachmentFolderPath": "1. Assets/attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2. Drafts"
 }

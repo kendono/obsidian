@@ -28,5 +28,6 @@
     "editor:toggle-checklist-status",
     "editor:configure-toolbar"
   ],
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "_assets/attachments"
 }

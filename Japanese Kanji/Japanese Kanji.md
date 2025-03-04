@@ -1,9 +1,9 @@
 
 # Japanese Kanji
 
-|                Entries                 | Description                                                                                               |                 JIS 1                 |           JIS 2            |                 Count                 |                 Total                  |
-| :------------------------------------: | :-------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :------------------------: | :-----------------------------------: | :------------------------------------: |
-| [Kyoiku Kanji](1.%20Kyoiku%20Kanji.md) | Kanken Level 10<br>Kanken Level 9<br>Kanken Level 8<br>Kanken Level 7<br>Kanken Level 6<br>Kanken Level 5 | 80<br>160<br>200<br>202<br>193<br>191 | 0<br>0<br>0<br>0<br>0<br>0 | 80<br>160<br>200<br>202<br>193<br>191 | 80<br>240<br>440<br>642<br>835<br>1026 |
-|   [Joyo Kanji](2.%20Joyo%20Kanji.md)   | Kanken Level 4<br>Kanken Level 3<br>Kanken Level 2.5<br>Kanken Level 2                                    |       313<br>284<br>328<br>155        |     0<br>0<br>0<br>30      |       313<br>284<br>328<br>185        |      1339<br>1623<br>1951<br>2136      |
-| [JIS Level 1](3.%20JIS%20Level%201.md) | Kanken Level 1.5                                                                                          |                  859                  |             0              |                  859                  |                  2995                  |
-| [JIS Level 2](4.%20JIS%20Level%202.md) | Kanken Level 1                                                                                            |                   0                   |            3360            |                 3360                  |                  6355                  |
+|                Category                |                 Count                 |                 JIS 1                 |           JIS 2            |                 Total                  |
+| :------------------------------------: | :-----------------------------------: | :-----------------------------------: | :------------------------: | :------------------------------------: |
+| [Kyoiku Kanji](1.%20Kyoiku%20Kanji.md) | 80<br>160<br>200<br>202<br>193<br>191 | 80<br>160<br>200<br>202<br>193<br>191 | 0<br>0<br>0<br>0<br>0<br>0 | 80<br>240<br>440<br>642<br>835<br>1026 |
+|   [Joyo Kanji](2.%20Joyo%20Kanji.md)   |       313<br>284<br>328<br>185        |       313<br>284<br>328<br>155        |     0<br>0<br>0<br>30      |      1339<br>1623<br>1951<br>2136      |
+| [JIS Level 1](3.%20JIS%20Level%201.md) |                  859                  |                  859                  |             0              |                  2995                  |
+| [JIS Level 2](4.%20JIS%20Level%202.md) |                 3360                  |                   0                   |            3360            |                  6355                  |

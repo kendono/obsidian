@@ -7,5 +7,6 @@
   "file-cleaner-redux",
   "obsidian-hider",
   "terminal",
-  "custom-font-loader"
+  "custom-font-loader",
+  "obsidian-link-converter"
 ]

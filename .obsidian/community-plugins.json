@@ -9,5 +9,10 @@
   "terminal",
   "custom-font-loader",
   "obsidian-link-converter",
-  "custom-sort"
+  "custom-sort",
+  "obsidian-linter",
+  "obsidian-regex-replace",
+  "table-editor-obsidian",
+  "obsidian-export-image",
+  "global-search-and-replace"
 ]

@@ -1,6 +1,6 @@
 {
-  "findText": " ",
-  "replaceText": "[\\r\\n]+",
+  "findText": "（*）",
+  "replaceText": "(*)",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

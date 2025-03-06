@@ -1,5 +1,5 @@
 
-if git clone https://github.com/kendono/obsidian .repair; then
+if git clone https://github.com/kendono/documents .repair; then
 
 rm -rf .git
 

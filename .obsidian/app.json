@@ -33,5 +33,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "2. Drafts",
   "focusNewTab": false,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "tabSize": 4
 }

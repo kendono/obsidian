@@ -32,5 +32,6 @@
   "attachmentFolderPath": "1. Assets/attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "2. Drafts",
-  "focusNewTab": false
+  "focusNewTab": false,
+  "showLineNumber": true
 }

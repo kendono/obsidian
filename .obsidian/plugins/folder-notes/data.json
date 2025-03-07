@@ -4,11 +4,11 @@
   "altKey": false,
   "hideFolderNote": true,
   "templatePath": "",
-  "autoCreate": true,
+  "autoCreate": false,
   "enableCollapsing": false,
   "excludeFolders": [],
   "whitelistFolders": [],
-  "showDeleteConfirmation": false,
+  "showDeleteConfirmation": true,
   "underlineFolder": true,
   "stopWhitespaceCollapsing": true,
   "underlineFolderInPath": true,
@@ -50,7 +50,8 @@
   },
   "settingsTab": "general",
   "supportedFileTypes": [
-    "md"
+    "md",
+    "canvas"
   ],
   "boldName": false,
   "boldNameInPath": false,
